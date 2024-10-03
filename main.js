@@ -85,12 +85,12 @@ const questions = [
     ],
   },
   {
-    question: "Who is the best YouTuber?",
+    question: "What is the best game?",
     answers: [
-      { text: "Web Dev Simplified", correct: true },
-      { text: "Traversy Media", correct: true },
-      { text: "Dev Ed", correct: true },
-      { text: "Fun Fun Function", correct: true },
+      { text: "Minecraft", correct: true },
+      { text: "Trackmania", correct: true },
+      { text: "Portal series", correct: true },
+      { text: "Hytale", correct: true },
     ],
   },
   {
@@ -103,10 +103,10 @@ const questions = [
     ],
   },
   {
-    question: "What is 4 * 2?",
+    question: "How do you spell Minecraft?",
     answers: [
-      { text: "6", correct: false },
-      { text: "8", correct: true },
+      { text: "Minceraft", correct: false },
+      { text: "Minecraft", correct: true },
     ],
   },
 ];
